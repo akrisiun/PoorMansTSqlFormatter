@@ -5,6 +5,13 @@ This is a small free .Net 2.0 library (with demo winforms program, web service, 
 and Visual Studio Addin, Command-line utility, Notepad++ plugin, and WinMerge plugin) 
 for reformatting T-SQL code.
 
+### SSMSAddIn
+ For SSMS 2012, full or Express, you need to 
+ 
+C:\users\All Users\Application Data\Microsoft\MSEnvShared\Addins\ 
+"c:\Program Files\Common Files\microsoft shared\". 
+   - copy the "PoorMansTSqlFormatterSSMSAddIn.AddIn" file to a "Microsoft\MSEnvShared\AddIns" subfolder of All Users Documents
+
 
 ### Features
 
