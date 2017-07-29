@@ -64,3 +64,4 @@ _ReSharper*/
 # Office Temp Files
 ~$*
 .vs*/
+PoorMansTSqlFormatterTest/References/NUnit/*.dll
